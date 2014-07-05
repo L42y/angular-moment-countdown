@@ -1,0 +1,26 @@
+{
+  "name": "angular-moment-countdown",
+  "main": "angular-moment-countdown.js",
+  "version": "0.1.0",
+  "authors": [
+    "L42y <423300@gmail.com>"
+  ],
+  "description": "4 years 4 months 4 days 4 hours 4 minutes 4 seconds 4 milliseconds to go, buddy!",
+  "keywords": [
+    "angular",
+    "moment",
+    "countdown"
+  ],
+  "license": "WTFPL",
+  "homepage": "https://github.com/L42y/angular-moment-countdown",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "moment": "^2.0"
+  }
+}
